@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hello Vite",
+      "body": "This is a mock post"
+    },
+    {
+      "id": 2,
+      "title": "Fetch vs Axios",
+      "body": "Side-by-side demo"
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "title": "Vite 5 Released",
+      "excerpt": "Faster dev server and improved HMR",
+      "source": "Vite Blog"
+    },
+    {
+      "id": 2,
+      "title": "React 19 RC",
+      "excerpt": "Actions, form improvements, and more",
+      "source": "React Team"
+    }
+  ]
+}

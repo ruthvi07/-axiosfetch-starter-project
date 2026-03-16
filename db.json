@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hello FSD SECTION-22",
+      "body": "This is a mock post"
+    },
+    {
+      "id": 2,
+      "title": "Fetch vs Axios",
+      "body": "Side-by-side demo"
+    },
+    {
+      "title": "New via Axios",
+      "body": "Hello from axios",
+      "id": 3
+    },
+    {
+      "title": "New via Axios",
+      "body": "Hello from axios",
+      "id": 4
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "title": "Vite 5 Released",
+      "excerpt": "Faster dev server and improved HMR",
+      "source": "Vite Blog"
+    },
+    {
+      "id": 2,
+      "title": "React 19 RC",
+      "excerpt": "Actions, form improvements, and more",
+      "source": "React Team"
+    },
+    {
+      "id": 3,
+      "title": "Breaking NEWS",
+      "excerpt": "LPG price Hike INDIA due to US -Israel & IRAN tension",
+      "source": "CNN"
+    }
+  ]
+}
